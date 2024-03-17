@@ -1,0 +1,17 @@
+{
+
+    "jojos":[
+        {
+          "id": 1,
+          "title": "Mouse",
+          "body": "30 S/.",
+          "img": "https://www.shutterstock.com/image-photo/wireless-computer-mouse-isolated-on-260nw-95568295.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Teclado",
+          "body": "50 S/.",
+          "img":"https://cdn.icon-icons.com/icons2/289/PNG/256/Logitech_Desktop_Wave_Keyboard_30804.png"
+        }
+    ]
+}    
